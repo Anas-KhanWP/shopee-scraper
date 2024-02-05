@@ -1,5 +1,5 @@
 import time
-import undetected_chromedriver as uc
+import
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
